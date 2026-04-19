@@ -187,11 +187,12 @@ python nome_do_arquivo.py
 ---
 
 ## 👨‍💻 Autor
-
-Desenvolvido por estudante de Análise e Desenvolvimento de Sistemas.
+Desenvolvido por Anderson Nascimento (estudante de Análise e Desenvolvimento de Sistemas).
 
 ---
 
 ## 📄 Licença
 
-Este projeto é apenas para fins acadêmicos.
+Este projeto é apenas para fins acadêmicos e profissionais. 
+Ressaltando que tudo o que foi construído, não seria possível 
+se não tivesse participado do Bootcamp da Luizalabs com a DIO.
