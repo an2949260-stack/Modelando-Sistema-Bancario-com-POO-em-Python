@@ -1,6 +1,6 @@
-# 💳 Sistema Bancário Orientado a Objetos
+# Sistema Bancário Orientado a Objetos
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 Este projeto consiste na implementação de um **sistema bancário em Python**, utilizando os conceitos de **Programação Orientada a Objetos (POO)**.
 
@@ -15,7 +15,7 @@ O sistema permite o gerenciamento de:
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 * Aplicar conceitos de POO:
 
@@ -29,11 +29,11 @@ O sistema permite o gerenciamento de:
 
 ---
 
-## 🧱 Estrutura do Sistema
+## Estrutura do Sistema
 
 O sistema é dividido nas seguintes classes:
 
-### 👤 Cliente
+### Cliente
 
 Responsável por representar um cliente do banco.
 
@@ -49,7 +49,7 @@ Responsável por representar um cliente do banco.
 
 ---
 
-### 👥 PessoaFisica (Herda de Cliente)
+### PessoaFisica (Herda de Cliente)
 
 Representa um cliente do tipo pessoa física.
 
@@ -61,7 +61,7 @@ Representa um cliente do tipo pessoa física.
 
 ---
 
-### 🏦 Conta
+### Conta
 
 Classe base para contas bancárias.
 
@@ -80,7 +80,7 @@ Classe base para contas bancárias.
 
 ---
 
-### 💰 ContaCorrente (Herda de Conta)
+### ContaCorrente (Herda de Conta)
 
 Conta com regras específicas.
 
@@ -91,31 +91,31 @@ Conta com regras específicas.
 
 ---
 
-### 📜 Historico
+### Historico
 
 Armazena todas as transações realizadas.
 
 ---
 
-### 🔄 Transacao (Classe Abstrata)
+### Transacao (Classe Abstrata)
 
 Define o comportamento padrão das transações.
 
 ---
 
-### 💸 Saque
+### Saque
 
 Implementa a lógica de saque.
 
 ---
 
-### 💵 Deposito
+### Deposito
 
 Implementa a lógica de depósito.
 
 ---
 
-## ⚙️ Funcionalidades do Sistema
+## Funcionalidades do Sistema
 
 O sistema possui um menu interativo com as seguintes opções:
 
@@ -131,7 +131,7 @@ O sistema possui um menu interativo com as seguintes opções:
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### 1. Pré-requisitos
 
@@ -147,7 +147,7 @@ python nome_do_arquivo.py
 
 ---
 
-## 💡 Exemplo de Uso
+##  Exemplo de Uso
 
 1. Criar um novo usuário
 2. Criar uma conta vinculada ao usuário
@@ -157,7 +157,7 @@ python nome_do_arquivo.py
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 * Classes e Objetos
 * Herança (PessoaFisica → Cliente)
@@ -167,7 +167,7 @@ python nome_do_arquivo.py
 
 ---
 
-## 📊 Vantagens da Abordagem
+## Vantagens da Abordagem
 
 * Código mais organizado
 * Fácil manutenção
@@ -176,7 +176,7 @@ python nome_do_arquivo.py
 
 ---
 
-## ⚠️ Possíveis Melhorias Futuras
+## Possíveis Melhorias Futuras
 
 * Interface gráfica (GUI)
 * Persistência em banco de dados
@@ -186,12 +186,12 @@ python nome_do_arquivo.py
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 Desenvolvido por Anderson Nascimento (estudante de Análise e Desenvolvimento de Sistemas).
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto é apenas para fins acadêmicos e profissionais. 
 Ressaltando que tudo o que foi construído, não seria possível 
